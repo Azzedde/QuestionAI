@@ -24,7 +24,6 @@ Dive deep into the vast ocean of information and extract meaningful insights wit
 
 - 🔍 Google Search Synthesis: Merge the vastness of Google search results into concise, actionable insights.
 
-- 📊 Excel & CSV Deciphering: Transmute rows & columns into understandable narratives.
 
 """
 )
