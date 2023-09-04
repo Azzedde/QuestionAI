@@ -1,0 +1,7 @@
+streamlit
+streamlit_extras
+PyPDF2
+langchain
+openai
+tiktoken
+faiss-gpu
